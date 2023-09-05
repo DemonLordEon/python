@@ -19,11 +19,16 @@ while i <3:
     i = 1
     if hittat:
       print("\nbra jobbat, här får du fem spänn ")
-    
+    else:
+      print("\n Bättre lycka till nästa gång ")
     
 
+
+
+if hittat:
+    print("\nbra jobbat, här får du fem spänn ")
 else:
-    print("\n what are u? AN IDIOT SANDWICH ")
+    print("\n EMOTINAL DAMAGE  ")
 
 
 
